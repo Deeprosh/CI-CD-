@@ -13,9 +13,9 @@ Basically it has 2 parts-Continous Integration
 CI/CD process follows few steps to deliver the end product or application to the customer.  
 
 **Step 1**:Unit Testing is testing the code in that specific block.  
-**Step 2**: Static code analysis is to verify the language which is syntatically, formatically and indentation is correct.  
-**Step 3**: Code quality/vulnerability is testing the code if its suitable to user environment and there are no flaws in it.
-**Step 4**: Automation is a kind of functional testing where we will verify the change that we have done and nothing is impacting the other functionalities.  
+**Step 2**: Static code analysis is to verify the language which is syntatically, formatically and indentation is correct.    
+**Step 3**: Code quality/vulnerability is testing the code if its suitable to user environment and there are no flaws in it.  
+**Step 4**: Automation is a kind of functional testing where we will verify the change that we have done and nothing is impacting the other functionalities.   
 **Step 5**: Reports is to prepare the reports like how many unit test cases done, what are the vulnerabilites etc.,  
 **Step 6**: Deployment means deploying or delivering the final application to the customer.  
 
