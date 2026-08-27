@@ -1,5 +1,4 @@
-# CI/CD
-CI/CD implementation using modern day technologies or solutions  
+# CI/CD----CI/CD implementation using modern day technologies or solutions  
 ## What is CI/CD?  
 *CI/CD(Continuous Integration and Continuous Delivery/Deployment) is a modern software development practice that automates the process of building, testing, and releasing applications to the customer. It plays a key role in DevOps by streamlining collaboration between development and operations teams.*  
 -Automates code integration, testing, and deployment workflows.  
