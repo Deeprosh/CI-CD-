@@ -19,4 +19,4 @@
 - we can use the same jenkins pipeline that we have created and update this image in the kubernetes YAML manifest.
 - we need to again the push this updated image to a github repository which is hosting all of this kubernetes manifest.
 - once this done,gitops approach or argo cd approach, we will deploy the new changes to the kubernetes platform.
-- How do we do that, argo cd is continously watching the manifest repository.wherever you are pushing the updated k8s YAML manifests, there you have to configure argo cd to watch this git repository and push the changes to the kubernetes.
+- How do we do that, argo cd is continously watching the manifest repository.wherever you are pushing the updated k8s YAML manifests, there you have to configure argo cd to watch this git repository and push the changes to the kubernetes cluster.
