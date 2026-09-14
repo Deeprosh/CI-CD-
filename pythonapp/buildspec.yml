@@ -12,7 +12,7 @@ phases:
   pre_build:
     commands:
       - echo "Installing dependencies..."
-      - pip install -r CI-CD-/pythonapp/requirements.txt
+      - pip install -r pythonapp/requirements.txt
   build:
     commands:
       - echo "Running tests..."
